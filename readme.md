@@ -60,5 +60,5 @@ boss=脸上有疤的黑袍男子
 遵循单一职责原则，当前项目主要集中在热词上，不会添加其他功能。未来有计划开发一款简洁、轻量、多功能的桌面效率工具，敬请期待。
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/qizhiyule/hotword/main/zfb.png" alt="收款码" width="200">
+  <img src="https://home.qizhiyule.fun/assets/zfb.jpg" width="200" alt="支付二维码">
 </p>
