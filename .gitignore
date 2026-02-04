@@ -1,4 +1,4 @@
 .vscode/
 app.lock
 config.txt
-hotword.exe
+hotword.*
